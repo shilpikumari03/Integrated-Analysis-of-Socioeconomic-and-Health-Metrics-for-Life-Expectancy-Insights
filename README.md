@@ -1,5 +1,5 @@
 
-# Data Visualization Project: Integrated Analysis of Socioeconomic and Health Metrics for Life Expectancy Insights
+# Integrated Analysis of Socioeconomic and Health Metrics for Life Expectancy Insights(Data Visualization Project)
 
 
 ## Introduction
