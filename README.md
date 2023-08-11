@@ -59,7 +59,7 @@ Follow these steps to explore the Tableau visualizations and analyses in this pr
 - In the project directory, navigate to the Tableau folder.
 - You will find Tableau workbooks (*.twb files) related to different analyses and visualizations.
 - Open Tableau Desktop and use the "Open" option to load a specific workbook from the Tableau folder.
-- 
+  
 3. Interact with Visualizations:
 
 - Once the workbook is open, you can interact with the visualizations, dashboards, and analyses created for the project.
@@ -85,6 +85,3 @@ Follow these steps to explore the Tableau visualizations and analyses in this pr
 
 The "Integrated Analysis of Socioeconomic and Health Metrics for Life Expectancy Insights" project demonstrates the intricate interplay of factors influencing life expectancy. By identifying these connections, this project contributes to global health understanding, informs policy decisions, and encourages further research to improve health outcomes worldwide.
 
----
-
-Feel free to customize the README template according to your preferences and project details. Replace placeholders like `your-username`, `link-to-your-logo.png`, and update any URLs or paths as needed. You can also include more sections if necessary.
