@@ -21,12 +21,19 @@ This project seeks to answer the following research questions:
 ### Data Collection and Preparation
 
 1. Gathered datasets from reliable sources, including life expectancy data, global food supply, urban and rural population, vaccination coverage, and GDP.
+- life expectancy data: https://www.kaggle.com/datasets/kumarajarshi/life-expectancy-who
+- Global food: https://ourworldindata.org/food-supply
+- Urban and rural population: Urbanization - Our World in Data
+- Global Vaccination Coverage: Vaccination - Our World in Data
+- Gross domestic product: Gross domestic product (GDP), 2020 (ourworldindata.org)
+- Life expectancy vs GDP per capita:   Life expectancy vs. GDP per capita, 2018 (ourworldindata.org)
+
 2. Cleaned and preprocessed the data to remove inconsistencies, missing values, and outliers that could affect the analysis.
 3. Combined multiple datasets into a comprehensive dataset containing relevant information for the analysis.
 
 ### Data Exploration
 
-1. Performed descriptive analysis to understand variable distribution, identify trends, and gain insights.
+1. Performed descriptive analysis to understand the variable distribution, identify trends, and gain insights.
 2. Utilized Tableau to visualize data relationships, enabling exploration of life expectancy factors.
 
 ### Data Analysis
